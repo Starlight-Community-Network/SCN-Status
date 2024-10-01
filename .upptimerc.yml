@@ -27,6 +27,7 @@ status-website:
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   cname: status.starlightgaming.network
   # baseUrl: /your-repo-name
+  theme: dark
   logoUrl: https://static.wixstatic.com/media/af0f76_efa09e38ca6b4e30ad3616f0a632b1b6~mv2.png
   name: Starlight Community Network
   introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."

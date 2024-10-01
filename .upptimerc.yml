@@ -5,22 +5,28 @@ repo: Status.starlightgaming.network # The name of this repository
 sites:
   - name: Starlight Community Network
     url: https://www.starlightgaming.network
+    url: https://www.starlightgaming.net
   - name: Fallback Site
     url: https://fallback.starlightgaming.network
   - name: Classic Site
     url: https://classic.starlightgaming.network
+  - name: Photon Tweaks
+    url: https://photontweaks.starlightgaming.network/ 
+  - name: Photon Tweaks
+    url: https://rntcad.starlightgaming.network/
   - name: Blossom Rabbit lounge
     url: https://Blossom.starlightgaming.network
   - name: BRCRP Cad
     url: https://brcrpcad.hamz.pro/
   - name: BRCRP Server
     url: http://brcrp.starlightgaming.net:3009
-    #check: "tcp-ping"
-    #port: 3009   
   - name: BRCRP Admin Panel
     url: http://brcrp.starlightgaming.net:3027
-    #check: "tcp-ping"
-    #port: 3027
+  - name: FluffyxGaming
+    url: https://fluffyx.starlightgaming.network/
+  - name: Collin3DModels
+    url: https://www.collin3dmodels.com/
+    url: https://clonn.starlightgaming.network/
     
 
 status-website:
@@ -38,6 +44,6 @@ status-website:
       href: https://github.com/$OWNER/$REPO
 
 #introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
-  #introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
+#introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration

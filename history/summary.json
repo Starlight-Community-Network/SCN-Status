@@ -5,18 +5,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.starlightgaming.network.ico",
     "slug": "starlight-community-network",
     "status": "down",
-    "uptime": "10.25%",
-    "uptimeDay": "10.25%",
-    "uptimeWeek": "10.25%",
-    "uptimeMonth": "10.25%",
-    "uptimeYear": "10.25%",
-    "time": 1065,
-    "timeDay": 1065,
-    "timeWeek": 1065,
-    "timeMonth": 1065,
-    "timeYear": 1065,
+    "uptime": "0.18%",
+    "uptimeDay": "0.18%",
+    "uptimeWeek": "0.18%",
+    "uptimeMonth": "0.18%",
+    "uptimeYear": "0.18%",
+    "time": 1020,
+    "timeDay": 1020,
+    "timeWeek": 1020,
+    "timeMonth": 1020,
+    "timeYear": 1020,
     "dailyMinutesDown": {
-      "2024-10-01": 0
+      "2024-10-01": 20
     }
   },
   {
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 170,
-    "timeDay": 170,
-    "timeWeek": 170,
-    "timeMonth": 170,
-    "timeYear": 170,
+    "time": 113,
+    "timeDay": 113,
+    "timeWeek": 113,
+    "timeMonth": 113,
+    "timeYear": 113,
     "dailyMinutesDown": {}
   },
   {
@@ -48,11 +48,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 476,
-    "timeDay": 476,
-    "timeWeek": 476,
-    "timeMonth": 476,
-    "timeYear": 476,
+    "time": 475,
+    "timeDay": 475,
+    "timeWeek": 475,
+    "timeMonth": 475,
+    "timeYear": 475,
     "dailyMinutesDown": {}
   },
   {
@@ -66,11 +66,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 392,
-    "timeDay": 392,
-    "timeWeek": 392,
-    "timeMonth": 392,
-    "timeYear": 392,
+    "time": 401,
+    "timeDay": 401,
+    "timeWeek": 401,
+    "timeMonth": 401,
+    "timeYear": 401,
     "dailyMinutesDown": {}
   },
   {
@@ -84,34 +84,36 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 3325,
-    "timeDay": 3325,
-    "timeWeek": 3325,
-    "timeMonth": 3325,
-    "timeYear": 3325,
+    "time": 2772,
+    "timeDay": 2772,
+    "timeWeek": 2772,
+    "timeMonth": 2772,
+    "timeYear": 2772,
     "dailyMinutesDown": {}
   },
   {
-    "name": "BRCRP Server And Admin Panel",
-    "url": "http://brcrp.starlightgaming.net:3009/",
+    "name": "BRCRP Server",
+    "url": "http://brcrp.starlightgaming.net",
     "icon": "https://icons.duckduckgo.com/ip3/brcrp.starlightgaming.net.ico",
-    "slug": "brcrp-server-and-admin-panel",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 672,
-    "timeDay": 672,
-    "timeWeek": 672,
-    "timeMonth": 672,
-    "timeYear": 672,
-    "dailyMinutesDown": {}
+    "slug": "brcrp-server",
+    "status": "down",
+    "uptime": "85.66%",
+    "uptimeDay": "85.66%",
+    "uptimeWeek": "85.66%",
+    "uptimeMonth": "85.66%",
+    "uptimeYear": "85.66%",
+    "time": 0,
+    "timeDay": 0,
+    "timeWeek": 0,
+    "timeMonth": 0,
+    "timeYear": 0,
+    "dailyMinutesDown": {
+      "2024-10-01": 0
+    }
   },
   {
     "name": "BRCRP Admin Panel",
-    "url": "http://brcrp.starlightgaming.net:3027/",
+    "url": "http://brcrp.starlightgaming.net",
     "icon": "https://icons.duckduckgo.com/ip3/brcrp.starlightgaming.net.ico",
     "slug": "brcrp-admin-panel",
     "status": "down",
@@ -126,7 +128,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-10-01": 0
+      "2024-10-01": 20
     }
   }
 ]

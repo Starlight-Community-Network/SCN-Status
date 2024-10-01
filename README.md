@@ -1,4 +1,4 @@
-# [📈 Live Status](https://https://status.starlightgaming.network/): <!--live status--> **🟧 Partial outage**
+# [📈 Live Status](https://status.starlightgaming.network/): <!--live status--> **🟧 Partial outage**
 
 This repository contains the open-source uptime monitor and status page for [Starlight Community Network](https://starlightgaming.network), powered by [Upptime](https://github.com/upptime/upptime).
 

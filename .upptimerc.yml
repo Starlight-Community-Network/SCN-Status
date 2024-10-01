@@ -5,7 +5,6 @@ repo: Status.starlightgaming.network # The name of this repository
 sites:
   - name: Starlight Community Network
     url: https://www.starlightgaming.network
-    url: https://www.starlightgaming.net
   - name: Fallback Site
     url: https://fallback.starlightgaming.network
   - name: Classic Site
@@ -26,7 +25,6 @@ sites:
     url: https://fluffyx.starlightgaming.network/
   - name: Collin3DModels
     url: https://www.collin3dmodels.com/
-    url: https://clonn.starlightgaming.network/
     
 
 status-website:

@@ -13,13 +13,13 @@ sites:
     url: https://Blossom.starlightgaming.network
   - name: BRCRP Cad
     url: https://brcrpcad.hamz.pro/
-  - name: BRCRP Server And Admin Panel
-    url: http://brcrp.starlightgaming.net:3009/
+  - name: BRCRP Server
+    url: http://brcrp.starlightgaming.net
+    port: 3009
   - name: BRCRP Admin Panel
-    url: http://brcrp.starlightgaming.net:3027/
-    port: 80
+    url: http://brcrp.starlightgaming.net
+    port: 3027
     check: "tcp-ping"
-    ipv6: true
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain

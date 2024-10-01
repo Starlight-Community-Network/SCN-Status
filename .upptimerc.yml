@@ -5,7 +5,7 @@ repo: Status.starlightgaming.network # The name of this repository
 sites:
   - name: Starlight Community Network
     url: https://www.starlightgaming.network
-  - name: Starlight Community Network | Fallback Site
+  - name: Fallback Site
     url: https://fallback.starlightgaming.network
   - name: Classic Site
     url: https://classic.starlightgaming.network
@@ -16,15 +16,16 @@ sites:
   - name: BRCRP Server
     url: http://brcrp.starlightgaming.net
     port: 3009
+    check: "udp-ping" 
   - name: BRCRP Admin Panel
     url: http://brcrp.starlightgaming.net
     port: 3027
-    check: "tcp-ping"
+    check: "udp-ping" 
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
-  cname: https://status.starlightgaming.network/
+  cname: status.starlightgaming.network
   # baseUrl: /your-repo-name
   logoUrl: https://static.wixstatic.com/media/af0f76_efa09e38ca6b4e30ad3616f0a632b1b6~mv2.png
   name: Starlight Community Network

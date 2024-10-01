@@ -11,16 +11,19 @@ sites:
     url: https://classic.starlightgaming.network
   - name: Photon Tweaks
     url: https://photontweaks.starlightgaming.network/ 
-  - name: Photon Tweaks
+  - name: Roguenight Transportation CAD
     url: https://rntcad.starlightgaming.network/
+    icon: https://static.wixstatic.com/media/2d311a_3ed098df00c4427e974febe5f3830c59~mv2.png
   - name: Blossom Rabbit lounge
     url: https://Blossom.starlightgaming.network
-  - name: BRCRP Cad
+  - name: BRCRP CAD
     url: https://brcrpcad.hamz.pro/
   - name: BRCRP Server
     url: http://brcrp.starlightgaming.net:3009
+    icon: https://static.wixstatic.com/media/af0f76_b53a5d44505f43d1baa34c3565a4bd82~mv2.png
   - name: BRCRP Admin Panel
     url: http://brcrp.starlightgaming.net:3027
+    icon: http://brcrp.starlightgaming.net:3027/favicon_default.svg
   - name: FluffyxGaming
     url: https://fluffyx.starlightgaming.network/
   - name: Collin3DModels
@@ -31,7 +34,7 @@ status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   cname: status.starlightgaming.network
-  theme: dark
+  theme: ocean
   logoUrl: https://static.wixstatic.com/media/af0f76_efa09e38ca6b4e30ad3616f0a632b1b6~mv2.png
   favicon: https://static.wixstatic.com/media/af0f76_efa09e38ca6b4e30ad3616f0a632b1b6~mv2.png
   name: Starlight Community Network

@@ -14,13 +14,13 @@ sites:
   - name: BRCRP Cad
     url: https://brcrpcad.hamz.pro/
   - name: BRCRP Server
-    url: http://brcrp.starlightgaming.net
-    check: "tcp-ping"
-    port: 3009   
+    url: http://brcrp.starlightgaming.net:3009
+    #check: "tcp-ping"
+    #port: 3009   
   - name: BRCRP Admin Panel
-    url: http://brcrp.starlightgaming.net
-    check: "tcp-ping"
-    port: 3027
+    url: http://brcrp.starlightgaming.net:3027
+    #check: "tcp-ping"
+    #port: 3027
     
 
 status-website:

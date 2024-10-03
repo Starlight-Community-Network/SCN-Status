@@ -5,11 +5,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.starlightgaming.network.ico",
     "slug": "starlight-community-network",
     "status": "up",
-    "uptime": "35.40%",
-    "uptimeDay": "34.85%",
-    "uptimeWeek": "35.40%",
-    "uptimeMonth": "35.40%",
-    "uptimeYear": "35.40%",
+    "uptime": "39.04%",
+    "uptimeDay": "43.70%",
+    "uptimeWeek": "39.04%",
+    "uptimeMonth": "39.04%",
+    "uptimeYear": "39.04%",
     "time": 792,
     "timeDay": 662,
     "timeWeek": 792,
@@ -133,27 +133,29 @@
     "url": "http://brcrp.starlightgaming.net:3009",
     "icon": "https://static.wixstatic.com/media/af0f76_b53a5d44505f43d1baa34c3565a4bd82~mv2.png",
     "slug": "brcrp-server",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.97%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.97%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.97%",
     "time": 731,
     "timeDay": 350,
     "timeWeek": 731,
     "timeMonth": 731,
     "timeYear": 731,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-10-03": 1
+    }
   },
   {
     "name": "BRCRP Admin Panel",
     "url": "http://brcrp.starlightgaming.net:3027",
     "icon": "http://brcrp.starlightgaming.net:3027/favicon_default.svg",
     "slug": "brcrp-admin-panel",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -162,7 +164,9 @@
     "timeWeek": 171,
     "timeMonth": 171,
     "timeYear": 171,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-10-03": 0
+    }
   },
   {
     "name": "FluffyxGaming",

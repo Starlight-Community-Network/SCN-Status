@@ -41,7 +41,7 @@ status-website:
   metaTags:
     - name: "theme-color"
   content: "#874fbf"
-    - name: "og:site_name"
+  - name: "og:site_name"
   content: "Starlight Community Network | Status"
     - name: "og:type"
   content: "website" 

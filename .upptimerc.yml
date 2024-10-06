@@ -37,12 +37,10 @@ status-website:
   theme: night
   logoUrl: https://static.wixstatic.com/media/af0f76_efa09e38ca6b4e30ad3616f0a632b1b6~mv2.png
   favicon: https://static.wixstatic.com/media/af0f76_efa09e38ca6b4e30ad3616f0a632b1b6~mv2.png
-  name: Starlight Community Network
+  name: Starlight Community Network | Status
   metaTags:
     - name: "theme-color"
   content: "#874fbf"
-  - name: "og:site_name"
-  content: "Starlight Community Network | Status"
     - name: "og:type"
   content: "website" 
     - name: "og:title"

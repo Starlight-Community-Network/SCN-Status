@@ -39,17 +39,17 @@ status-website:
   favicon: https://static.wixstatic.com/media/af0f76_efa09e38ca6b4e30ad3616f0a632b1b6~mv2.png
   name: Starlight Community Network
   metaTags:
-- name: "theme-color"
+    - name: "theme-color"
   content: "#874fbf"
-- name: "og:site_name"
+    - name: "og:site_name"
   content: "Starlight Community Network | Status"
-- name: "og:type"
+    - name: "og:type"
   content: "website" 
-- name: "og:title"
+    - name: "og:title"
   content: "SCN | Downtime"
-- name: "og:description"
+    - name: "og:description"
   content: "Stay informed with real-time updates on our service status. Check for outages, scheduled maintenance, and performance metrics to ensure seamless connectivity."
-- name: "og:image"
+    - name: "og:image"
   content: "https://static.wixstatic.com/media/af0f76_efa09e38ca6b4e30ad3616f0a632b1b6~mv2.png"
   navbar:
     - title: Status

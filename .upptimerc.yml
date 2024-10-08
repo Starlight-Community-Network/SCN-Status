@@ -2,7 +2,7 @@
 owner: Starlight-Community-Network # Your GitHub organization or username, where this repository lives
 repo: Status.starlightgaming.network # The name of this repository
 skipDeleteIssues: true
-user-agent: Starlight-Community-Network
+user-agent: upptime-bot
 
 sites:
   - name: Starlight Community Network

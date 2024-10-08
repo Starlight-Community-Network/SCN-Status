@@ -1,7 +1,7 @@
 url: http://brcrp.starlightgaming.net:3009
-status: up
-code: 200
-responseTime: 658
-lastUpdated: 2024-10-07T23:10:48.059Z
+status: down
+code: 503
+responseTime: 12096
+lastUpdated: 2024-10-08T19:27:13.030Z
 startTime: 2024-10-01T13:21:19.822Z
 generator: Upptime <https://github.com/upptime/upptime>

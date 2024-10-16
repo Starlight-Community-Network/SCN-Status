@@ -115,19 +115,19 @@
     "url": "https://brcrpcad.hamz.pro/",
     "icon": "https://icons.duckduckgo.com/ip3/brcrpcad.hamz.pro.ico",
     "slug": "brcrp-cad",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 1906,
-    "timeDay": 1355,
-    "timeWeek": 1501,
-    "timeMonth": 1906,
-    "timeYear": 1906,
+    "status": "up",
+    "uptime": "99.96%",
+    "uptimeDay": "99.33%",
+    "uptimeWeek": "99.90%",
+    "uptimeMonth": "99.96%",
+    "uptimeYear": "99.96%",
+    "time": 1945,
+    "timeDay": 2266,
+    "timeWeek": 1710,
+    "timeMonth": 1945,
+    "timeYear": 1945,
     "dailyMinutesDown": {
-      "2024-10-16": 0
+      "2024-10-16": 10
     }
   },
   {

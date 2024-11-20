@@ -137,19 +137,19 @@
     "url": "http://brcrp.starlightgaming.net:3009",
     "icon": "https://static.wixstatic.com/media/af0f76_b53a5d44505f43d1baa34c3565a4bd82~mv2.png",
     "slug": "brcrp-server-and-admin-panel",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 1616,
-    "timeDay": 6265,
-    "timeWeek": 2042,
-    "timeMonth": 1702,
-    "timeYear": 1616,
+    "status": "up",
+    "uptime": "99.90%",
+    "uptimeDay": "99.20%",
+    "uptimeWeek": "99.89%",
+    "uptimeMonth": "99.90%",
+    "uptimeYear": "99.90%",
+    "time": 1556,
+    "timeDay": 4457,
+    "timeWeek": 1909,
+    "timeMonth": 1630,
+    "timeYear": 1556,
     "dailyMinutesDown": {
-      "2024-11-20": 0
+      "2024-11-20": 12
     }
   },
   {

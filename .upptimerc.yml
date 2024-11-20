@@ -40,8 +40,8 @@ status-website:
   introMessage: When one of our Sites/Services Goes down you'll know here!
   #robotsText: "User-agent: * \n Disallow: /"
   robotsText: "User-agent: * \n Disallow: /"  
-  robotsText: "User-agent: Googlebot \n allow: /"
-  robotsText: "User-agent: Bingbot \n allow: /
+  robotsText: "User-agent: Googlebot allow: /"
+  robotsText: "User-agent: Bingbot allow: /
   
 Allow: /includes/
   metaTags:

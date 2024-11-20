@@ -52,10 +52,10 @@ status-website:
   navbar:
     - title: Status
       href: /
-    - title: GitHub
-      href: https://github.com/$OWNER/$REPO
+    - title: Main Site
+      href: https://www.starlightgaming.network
+    - title: Fallback Site
+      href: https://fallback.starlightgaming.network
 
-#introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
-#introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
-# Upptime also supports notifications, assigning issues, and more
-# See https://upptime.js.org/docs/configuration
+introTitle: "**Welcome** to the Starlight Community Network Status Page."
+introMessage: "When one of our Sites/Services Goes down you'll know here!"

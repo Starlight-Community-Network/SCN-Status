@@ -36,6 +36,8 @@ status-website:
   logoUrl: https://static.wixstatic.com/media/af0f76_efa09e38ca6b4e30ad3616f0a632b1b6~mv2.png
   favicon: https://static.wixstatic.com/media/af0f76_efa09e38ca6b4e30ad3616f0a632b1b6~mv2.png
   name: Starlight Community Network
+  introTitle: "**Welcome** to the Starlight Community Network Status Page."
+  introMessage: When one of our Sites/Services Goes down you'll know here!
   metaTags:
     - name: "theme-color"
       content: "#874fbf" 
@@ -56,6 +58,3 @@ status-website:
       href: https://www.starlightgaming.network
     - title: Fallback Site
       href: https://fallback.starlightgaming.network
-
-introTitle: "**Welcome** to the Starlight Community Network Status Page."
-introMessage: When one of our Sites/Services Goes down you'll know here!

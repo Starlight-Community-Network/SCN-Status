@@ -13,17 +13,23 @@ sites:
     url: https://classic.starlightgaming.network
   - name: Photon Tweaks
     url: https://photontweaks.starlightgaming.network/ 
-  - name: Roguenight Transportation CAD
+  - name: Roguenight Transportation CAD (Closed)
     url: https://rntcad.starlightgaming.network/
     icon: https://static.wixstatic.com/media/2d311a_3ed098df00c4427e974febe5f3830c59~mv2.png
   - name: Blossom Rabbit lounge
     url: https://Blossom.starlightgaming.network
-  - name: BRCRP CAD
+  - name: BRCRP CAD (Kind of don't do nothing)
     url: https://brcad.starlightgaming.net/
-  - name: BRCRP Server & Admin Panel
-    url: http://brcrp.starlightgaming.net:3009
+  - name: BRCRP Server & Admin Panel (To return)
+    url: http://brcrp.starlightgaming.net
     icon: https://static.wixstatic.com/media/af0f76_b53a5d44505f43d1baa34c3565a4bd82~mv2.png
-  - name: FluffyxGaming
+  - name: MSRP Server & Admin Panel
+    url: https://msrp.starlightgaming.net:3041
+    icon: https://static.wixstatic.com/media/af0f76_fda78d8d370440ce8320fd7f31936dc4~mv2.png
+  - name: MSRP Server & Admin Panel
+    url: msrpcad.starlightgaming.net
+    icon: https://static.wixstatic.com/media/af0f76_fda78d8d370440ce8320fd7f31936dc4~mv2.png
+  - name: FluffyxGaming (To Be Removed Visit URL Gor More Info)
     url: https://fluffyx.starlightgaming.network/
   - name: Collin3DModels
     url: https://www.collin3dmodels.com/

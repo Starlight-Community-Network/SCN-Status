@@ -139,14 +139,14 @@
     "icon": "https://static.wixstatic.com/media/af0f76_b53a5d44505f43d1baa34c3565a4bd82~mv2.png",
     "slug": "brcrp-server-and-admin-panel",
     "status": "up",
-    "uptime": "98.09%",
+    "uptime": "98.10%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "99.54%",
-    "uptimeMonth": "98.09%",
-    "uptimeYear": "98.09%",
+    "uptimeWeek": "99.60%",
+    "uptimeMonth": "98.10%",
+    "uptimeYear": "98.10%",
     "time": 3584,
     "timeDay": 427,
-    "timeWeek": 5753,
+    "timeWeek": 6083,
     "timeMonth": 3663,
     "timeYear": 3584,
     "dailyMinutesDown": {
@@ -161,9 +161,9 @@
     "url": "https://fluffyx.starlightgaming.network/",
     "icon": "https://icons.duckduckgo.com/ip3/fluffyx.starlightgaming.network.ico",
     "slug": "fluffyx-gaming",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -172,7 +172,9 @@
     "timeWeek": 365,
     "timeMonth": 383,
     "timeYear": 374,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-12-03": 0
+    }
   },
   {
     "name": "Collin3DModels",

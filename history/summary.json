@@ -12,7 +12,7 @@
     "uptimeYear": "98.52%",
     "time": 684,
     "timeDay": 716,
-    "timeWeek": 651,
+    "timeWeek": 627,
     "timeMonth": 653,
     "timeYear": 684,
     "dailyMinutesDown": {
@@ -33,7 +33,7 @@
     "uptimeYear": "100.00%",
     "time": 113,
     "timeDay": 144,
-    "timeWeek": 110,
+    "timeWeek": 111,
     "timeMonth": 107,
     "timeYear": 113,
     "dailyMinutesDown": {}
@@ -51,7 +51,7 @@
     "uptimeYear": "100.00%",
     "time": 374,
     "timeDay": 355,
-    "timeWeek": 485,
+    "timeWeek": 489,
     "timeMonth": 411,
     "timeYear": 374,
     "dailyMinutesDown": {}
@@ -69,7 +69,7 @@
     "uptimeYear": "100.00%",
     "time": 348,
     "timeDay": 197,
-    "timeWeek": 304,
+    "timeWeek": 294,
     "timeMonth": 347,
     "timeYear": 348,
     "dailyMinutesDown": {}
@@ -97,18 +97,20 @@
     "url": "https://Blossom.starlightgaming.network",
     "icon": "https://icons.duckduckgo.com/ip3/blossom.starlightgaming.network.ico",
     "slug": "blossom-rabbit-lounge",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 313,
     "timeDay": 347,
-    "timeWeek": 287,
+    "timeWeek": 283,
     "timeMonth": 307,
     "timeYear": 313,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-12-05": 0
+    }
   },
   {
     "name": "BRCRP CAD (Kind of don't do nothing)",
@@ -145,7 +147,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-12-05": 41,
+      "2024-12-05": 230,
       "2024-12-04": 1440,
       "2024-12-03": 1270
     }
@@ -156,18 +158,18 @@
     "icon": "https://static.wixstatic.com/media/af0f76_fda78d8d370440ce8320fd7f31936dc4~mv2.png",
     "slug": "msrp-server-and-admin-panel",
     "status": "down",
-    "uptime": "2.89%",
+    "uptime": "2.70%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "2.89%",
-    "uptimeMonth": "2.89%",
-    "uptimeYear": "2.89%",
+    "uptimeWeek": "2.70%",
+    "uptimeMonth": "2.70%",
+    "uptimeYear": "2.70%",
     "time": 418,
     "timeDay": 0,
     "timeWeek": 418,
     "timeMonth": 418,
     "timeYear": 418,
     "dailyMinutesDown": {
-      "2024-12-05": 41,
+      "2024-12-05": 230,
       "2024-12-04": 1440,
       "2024-12-03": 1191
     }
@@ -221,7 +223,7 @@
     "uptimeYear": "100.00%",
     "time": 368,
     "timeDay": 254,
-    "timeWeek": 317,
+    "timeWeek": 307,
     "timeMonth": 337,
     "timeYear": 368,
     "dailyMinutesDown": {}

@@ -15,6 +15,7 @@ sites:
     check: "tcp-ping"
     url: scumcraft.starlightgaming.net
     port: 55294
+    icon: https://static.wixstatic.com/media/2d311a_ff5d4c5be50b4692a391da67869d1b95~mv2.png
   - name: Photon Tweaks
     url: https://photontweaks.starlightgaming.network/ 
   - name: Roguenight Transportation CAD (Closed)

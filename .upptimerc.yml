@@ -11,6 +11,8 @@ sites:
     url: https://fallback.starlightgaming.network
   - name: Classic Site
     url: https://classic.starlightgaming.network
+  - name: Scumcraft
+    url: http://scumcraft.starlightgaming.net:55294
   - name: Photon Tweaks
     url: https://photontweaks.starlightgaming.network/ 
   - name: Roguenight Transportation CAD (Closed)

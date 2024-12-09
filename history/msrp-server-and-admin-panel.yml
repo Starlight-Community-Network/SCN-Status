@@ -1,7 +1,7 @@
 url: http://msrp.starlightgaming.net:3041
-status: up
-code: 200
-responseTime: 1110
-lastUpdated: 2024-12-08T23:10:57.208Z
+status: down
+code: 503
+responseTime: 12098
+lastUpdated: 2024-12-09T00:42:03.891Z
 startTime: 2024-12-03T02:49:31.711Z
 generator: Upptime <https://github.com/upptime/upptime>

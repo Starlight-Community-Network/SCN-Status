@@ -28,12 +28,6 @@ sites:
   - name: BRCRP Server & Admin Panel (To return)
     url: http://brcrp.starlightgaming.net
     icon: https://static.wixstatic.com/media/af0f76_b53a5d44505f43d1baa34c3565a4bd82~mv2.png
-  - name: MSRP Server & Admin Panel
-    url: http://msrp.starlightgaming.net:3041
-    icon: https://static.wixstatic.com/media/af0f76_fda78d8d370440ce8320fd7f31936dc4~mv2.png
-  - name: Moonlight Simulations Cad
-    url: https://msrpcad.starlightgaming.net
-    icon: https://static.wixstatic.com/media/af0f76_fda78d8d370440ce8320fd7f31936dc4~mv2.png
   - name: FluffyxGaming (To Be Removed Visit URL Gor More Info)
     url: http://fluffyx.starlightgaming.network
   - name: Collin3DModels

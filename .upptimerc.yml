@@ -65,3 +65,5 @@ status-website:
       href: https://fallback.starlightgaming.network
     - title: MS Status page
       href: https://upptime.moonlightsimulations.org
+      status-website:
+  robotsText: "User-agent: Googlebot \n Disallow: /"

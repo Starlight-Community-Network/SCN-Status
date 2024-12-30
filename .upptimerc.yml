@@ -8,23 +8,23 @@ sites:
   - name: Starlight Community Network
     url: https://www.starlightgaming.network
   - name: Fallback Site
-    url: https://fallback.starlightgaming.network
+    url: https://fallback.starlightcommunty.network
   - name: Classic Site
-    url: https://classic.starlightgaming.network
+    url: https://classic.starlightcommunty.network
   - name: Scumcraft
     check: "tcp-ping"
-    url: scumcraft.starlightgaming.net
+    url: smp.starlightcommunty.net
     port: 55294
     icon: https://static.wixstatic.com/media/2d311a_ff5d4c5be50b4692a391da67869d1b95~mv2.png
   - name: Photon Tweaks
-    url: https://photontweaks.starlightgaming.network/ 
+    url: https://photontweaks.starlightcommunty.net 
   - name: Roguenight Transportation CAD (Closed)
-    url: https://rntcad.starlightgaming.network/
+    url: https://rntcad.starlightcommunty.net
     icon: https://static.wixstatic.com/media/2d311a_3ed098df00c4427e974febe5f3830c59~mv2.png
   - name: Blossom Rabbit lounge
     url: https://Blossom.starlightgaming.network
   - name: BRCRP CAD (Kind of don't do nothing)
-    url: https://brcad.starlightgaming.net/
+    url: https://brcad.starlightcommunty.net
   - name: BRCRP Server & Admin Panel (To return)
     url: http://brcrp.starlightgaming.net
     icon: https://static.wixstatic.com/media/af0f76_b53a5d44505f43d1baa34c3565a4bd82~mv2.png
@@ -60,9 +60,9 @@ status-website:
     - title: Status
       href: /
     - title: Main Site
-      href: https://www.starlightgaming.network
+      href: https://www.starlightcommunty.network
     - title: Fallback Site
-      href: https://fallback.starlightgaming.network
+      href: https://fallback.starlightcommunty.network
     - title: MS Status page
       href: https://upptime.moonlightsimulations.org
       status-website:

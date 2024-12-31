@@ -11,7 +11,7 @@ sites:
     url: https://fallback.starlightcommunity.network
   - name: Classic Site
     url: https://classic.starlightcommunity.network
-  - name: Scumcraft
+  - name: Clonn's SMP
     check: "tcp-ping"
     url: smp.starlightcommunity.net
     port: 55294

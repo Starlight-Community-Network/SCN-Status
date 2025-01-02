@@ -28,8 +28,7 @@ sites:
   - name: BRCRP Server & Admin Panel (To return)
     url: http://brcrp.starlightcommunity.net
     expectedStatusCodes:
-      - 500
-      - 503
+      - 0
     icon: https://static.wixstatic.com/media/af0f76_b53a5d44505f43d1baa34c3565a4bd82~mv2.png
   - name: FluffyxGaming (To Be Removed Visit URL Gor More Info)
     url: http://fluffyx.starlightgaming.network

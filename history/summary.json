@@ -4,11 +4,11 @@
     "url": "https://www.starlightcommunity.network",
     "icon": "https://icons.duckduckgo.com/ip3/www.starlightcommunity.network.ico",
     "slug": "starlight-community-network",
-    "status": "up",
+    "status": "down",
     "uptime": "99.20%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.81%",
+    "uptimeWeek": "99.97%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "99.20%",
     "time": 658,
     "timeDay": 361,
@@ -16,6 +16,7 @@
     "timeMonth": 631,
     "timeYear": 658,
     "dailyMinutesDown": {
+      "2025-01-29": 3,
       "2024-10-02": 975,
       "2024-10-01": 404
     }
@@ -25,28 +26,30 @@
     "url": "https://fallback.starlightcommunity.network",
     "icon": "https://icons.duckduckgo.com/ip3/fallback.starlightcommunity.network.ico",
     "slug": "fallback-site",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.84%",
+    "uptimeWeek": "99.98%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
     "time": 106,
     "timeDay": 84,
     "timeWeek": 83,
     "timeMonth": 93,
     "timeYear": 106,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-01-29": 2
+    }
   },
   {
     "name": "Classic Site",
     "url": "https://classic.starlightcommunity.network",
     "icon": "https://icons.duckduckgo.com/ip3/classic.starlightcommunity.network.ico",
     "slug": "classic-site",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.88%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 355,
@@ -54,7 +57,9 @@
     "timeWeek": 254,
     "timeMonth": 334,
     "timeYear": 355,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-01-29": 2
+    }
   },
   {
     "name": "Clonn's SMP",
@@ -82,10 +87,10 @@
     "url": "https://photontweaks.starlightcommunity.net",
     "icon": "https://icons.duckduckgo.com/ip3/photontweaks.starlightcommunity.net.ico",
     "slug": "photon-tweaks",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.93%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 331,
@@ -93,17 +98,19 @@
     "timeWeek": 257,
     "timeMonth": 308,
     "timeYear": 331,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-01-29": 1
+    }
   },
   {
     "name": "Roguenight Transportation CAD (Closed)",
     "url": "https://rntcad.starlightcommunity.net",
     "icon": "https://static.wixstatic.com/media/2d311a_3ed098df00c4427e974febe5f3830c59~mv2.png",
     "slug": "roguenight-transportation-cad-closed",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 303,
@@ -111,7 +118,9 @@
     "timeWeek": 314,
     "timeMonth": 306,
     "timeYear": 303,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-01-29": 1
+    }
   },
   {
     "name": "Blossom Rabbit lounge",
@@ -159,11 +168,11 @@
     "icon": "https://static.wixstatic.com/media/af0f76_b53a5d44505f43d1baa34c3565a4bd82~mv2.png",
     "slug": "brcrp-server-and-admin-panel-to-return",
     "status": "up",
-    "uptime": "47.20%",
+    "uptime": "47.32%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "86.39%",
-    "uptimeYear": "47.20%",
+    "uptimeMonth": "86.83%",
+    "uptimeYear": "47.32%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,

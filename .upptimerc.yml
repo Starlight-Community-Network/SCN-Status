@@ -7,6 +7,8 @@ user-agent: upptime-bot
 sites:
   - name: Starlight Community Network
     url: https://www.starlightcommunity.network
+  - name: Shimmering Community Docs 
+    url: https://docs.starlightcommunity.network/Hub/Overview/
   - name: Fallback Site
     url: https://fallback.starlightcommunity.network
   - name: Classic Site

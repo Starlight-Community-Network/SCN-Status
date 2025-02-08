@@ -13,9 +13,9 @@ sites:
     url: https://fallback.starlightcommunity.network
   - name: Classic Site
     url: https://classic.starlightcommunity.network
-  - name: Clonn's SMP
+  - name: Scumcraft
     check: "tcp-ping"
-    url: smp.starlightcommunity.net
+    url: scumcraft.starlightcommunity.net
     port: 55294
     icon: https://static.wixstatic.com/media/2d311a_ff5d4c5be50b4692a391da67869d1b95~mv2.png
   - name: Photon Tweaks

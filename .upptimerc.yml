@@ -25,12 +25,8 @@ sites:
     icon: https://static.wixstatic.com/media/2d311a_3ed098df00c4427e974febe5f3830c59~mv2.png
   - name: Blossom Rabbit lounge
     url: https://Blossom.starlightcommunity.net
-  - name: BRCRP CAD (Kind of don't do nothing)
+  - name: BRCRP CAD (Going Away)
     url: https://brcad.starlightcommunity.net
-  - name: BRCRP Server & Admin Panel (To return)
-    url: http://brcrp.starlightcommunity.net
-    expectedStatusCodes:
-      - 0
     icon: https://static.wixstatic.com/media/af0f76_b53a5d44505f43d1baa34c3565a4bd82~mv2.png
   - name: Collin3DModels
     url: https://www.collin3dmodels.com/

@@ -1,7 +1,7 @@
 url: https://brcad.starlightcommunity.net
-status: up
-code: 200
-responseTime: 253
-lastUpdated: 2025-03-03T23:11:28.458Z
+status: down
+code: 502
+responseTime: 19985
+lastUpdated: 2025-03-04T00:01:51.274Z
 startTime: 2025-03-03T06:15:24.878Z
 generator: Upptime <https://github.com/upptime/upptime>

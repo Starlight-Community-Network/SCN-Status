@@ -8,7 +8,7 @@ sites:
   - name: Starlight Community Network
     url: https://www.starlightcommunity.network
   - name: Shimmering Community Docs 
-    url: https://docs.starlightcommunity.network/Hub/Overview/
+    url: https://docs.starlightcommunity.network/
   - name: Fallback Site
     url: https://fallback.starlightcommunity.network
   - name: Classic Site
@@ -26,7 +26,7 @@ sites:
   - name: Blossom Rabbit lounge
     url: https://Blossom.starlightcommunity.net
   - name: BRCRP CAD (Going Away)
-    url: https://brcad.starlightcommunity.net
+    url: https://brcad404.starlightcommunity.net
     icon: https://static.wixstatic.com/media/af0f76_b53a5d44505f43d1baa34c3565a4bd82~mv2.png
   - name: Collin3DModels
     url: https://www.collin3dmodels.com/

@@ -7,6 +7,7 @@ user-agent: upptime-bot
 sites:
   - name: Starlight Community Network
     url: https://www.starlightcommunity.network
+    icon: https://icons.duckduckgo.com/ip3/docs.starlightcommunity.network.ico
   - name: Shimmering Community Docs 
     url: https://docs.starlightcommunity.network/
   - name: Fallback Site
@@ -32,6 +33,7 @@ sites:
     url: https://www.collin3dmodels.com/
   - name: Moonlight Simulations
     url: https://www.moonlightsimulations.org
+    icon: https://static.wixstatic.com/media/af0f76_fda78d8d370440ce8320fd7f31936dc4~mv2.png
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
@@ -63,7 +65,4 @@ status-website:
       href: https://www.starlightcommunity.network
     - title: Fallback Site
       href: https://fallback.starlightcommunity.network
-    - title: MS Status page
-      href: https://upptime.moonlightsimulations.org
-      status-website:
   robotsText: "User-agent: Googlebot \n Disallow: /"

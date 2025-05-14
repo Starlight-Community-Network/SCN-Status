@@ -9,7 +9,9 @@ sites:
     url: https://www.starlightcommunity.network
     icon: https://icons.duckduckgo.com/ip3/docs.starlightcommunity.network.ico
   - name: Shimmering Community Docs 
-    url: https://docs.starlightcommunity.network/
+    url: https://internal.starlightcommunity.network
+  - name: Shimmering Community Docs 
+    url: https://docs.starlightcommunity.network
   - name: Fallback Site
     url: https://fallback.starlightcommunity.network
   - name: Classic Site
@@ -30,7 +32,7 @@ sites:
     url: https://brcad404.starlightcommunity.net
     icon: https://static.wixstatic.com/media/af0f76_b53a5d44505f43d1baa34c3565a4bd82~mv2.png
   - name: Collin3DModels
-    url: https://www.collin3dmodels.com/
+    url: https://www.collin3dmodels.com
   - name: Moonlight Simulations
     url: https://www.moonlightsimulations.org
     icon: https://static.wixstatic.com/media/af0f76_fda78d8d370440ce8320fd7f31936dc4~mv2.png

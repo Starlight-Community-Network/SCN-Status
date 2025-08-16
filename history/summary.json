@@ -149,9 +149,9 @@
     "url": "https://photontweaks.starlightcommunity.net",
     "icon": "https://icons.duckduckgo.com/ip3/photontweaks.starlightcommunity.net.ico",
     "slug": "photon-tweaks",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -161,6 +161,7 @@
     "timeMonth": 374,
     "timeYear": 338,
     "dailyMinutesDown": {
+      "2025-08-16": 0,
       "2025-01-29": 8
     }
   },
@@ -211,11 +212,11 @@
     "icon": "https://static.wixstatic.com/media/af0f76_b53a5d44505f43d1baa34c3565a4bd82~mv2.png",
     "slug": "brcrp-cad-going-away",
     "status": "up",
-    "uptime": "96.18%",
+    "uptime": "96.19%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "96.18%",
+    "uptimeYear": "96.19%",
     "time": 458,
     "timeDay": 367,
     "timeWeek": 304,

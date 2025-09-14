@@ -260,17 +260,17 @@
     "url": "https://www.moonlightsimulations.org",
     "icon": "https://static.wixstatic.com/media/af0f76_fda78d8d370440ce8320fd7f31936dc4~mv2.png",
     "slug": "moonlight-simulations",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.95%",
     "uptimeYear": "99.99%",
-    "time": 334,
-    "timeDay": 369,
-    "timeWeek": 334,
-    "timeMonth": 316,
-    "timeYear": 334,
+    "time": 333,
+    "timeDay": 306,
+    "timeWeek": 323,
+    "timeMonth": 314,
+    "timeYear": 333,
     "dailyMinutesDown": {
       "2025-08-16": 20
     }

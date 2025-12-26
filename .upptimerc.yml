@@ -27,15 +27,12 @@ sites:
     url: https://rntcad.starlightcommunity.net
     icon: https://static.wixstatic.com/media/2d311a_3ed098df00c4427e974febe5f3830c59~mv2.png
   - name: Blossom Rabbit lounge
-    url: https://Blossom.starlightcommunity.net
+    url: https://blossom.starlightcommunity.net
   - name: BRCRP CAD (Going Away)
     url: https://brcad404.starlightcommunity.net
     icon: https://static.wixstatic.com/media/af0f76_b53a5d44505f43d1baa34c3565a4bd82~mv2.png
   - name: Collin3DModels
     url: https://www.collin3dmodels.com
-  - name: Moonlight Simulations
-    url: https://www.moonlightsimulations.org
-    icon: https://static.wixstatic.com/media/af0f76_fda78d8d370440ce8320fd7f31936dc4~mv2.png
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain

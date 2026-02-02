@@ -7,11 +7,7 @@ user-agent: upptime-bot
 sites:
   - name: Starlight Community Network
     url: https://www.starlightcommunity.network
-    icon: https://icons.duckduckgo.com/ip3/docs.starlightcommunity.network.ico
-  - name: Shimmering Community Portal 
-    url: https://internal.starlightcommunity.network
-  - name: Shimmering Community Docs 
-    url: https://docs.starlightcommunity.network
+    icon: https://static.wixstatic.com/media/12679b_f990c0dfc4744a7d828199dd2c91ea50~mv2.png
   - name: Fallback Site
     url: https://fallback.starlightcommunity.network
   - name: Classic Site
@@ -21,16 +17,6 @@ sites:
     url: scumcraft.starlightcommunity.net
     port: 55294
     icon: https://static.wixstatic.com/media/2d311a_ff5d4c5be50b4692a391da67869d1b95~mv2.png
-  - name: Photon Tweaks
-    url: https://photontweaks.starlightcommunity.net
-  - name: Roguenight Transportation CAD (Closed)
-    url: https://rntcad.starlightcommunity.net
-    icon: https://static.wixstatic.com/media/2d311a_3ed098df00c4427e974febe5f3830c59~mv2.png
-  - name: Blossom Rabbit lounge
-    url: https://blossom.starlightcommunity.net
-  - name: BRCRP CAD (Going Away)
-    url: https://brcad404.starlightcommunity.net
-    icon: https://static.wixstatic.com/media/af0f76_b53a5d44505f43d1baa34c3565a4bd82~mv2.png
   - name: Collin3DModels
     url: https://www.collin3dmodels.com
 

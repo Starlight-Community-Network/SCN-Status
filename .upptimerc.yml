@@ -5,13 +5,16 @@ skipDeleteIssues: true
 user-agent: upptime-bot
 
 sites:
-  - name: Starlight Community Network
+  - name: Main Site
     url: https://www.starlightcommunity.network
     icon: https://static.wixstatic.com/media/12679b_f990c0dfc4744a7d828199dd2c91ea50~mv2.png
   - name: Fallback Site
     url: https://fallback.starlightcommunity.network
   - name: Classic Site
     url: https://classic.starlightcommunity.network
+  - name: Support Forum
+    url: https://support.starlightcommunity.network
+    icon: https://static.wixstatic.com/media/12679b_f990c0dfc4744a7d828199dd2c91ea50~mv2.png
   - name: Scumcraft
     check: "tcp-ping"
     url: scumcraft.starlightcommunity.net

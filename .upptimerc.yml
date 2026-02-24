@@ -1,6 +1,5 @@
-# Change these first
-owner: Starlight-Community-Network # Your GitHub organization or username, where this repository lives
-repo: SCN-Status # The name of this repository
+owner: Starlight-Community-Network 
+repo: SCN-Status 
 skipDeleteIssues: true
 user-agent: upptime-bot
 
@@ -21,13 +20,11 @@ sites:
     port: 55294
     icon: https://static.wixstatic.com/media/2d311a_ff5d4c5be50b4692a391da67869d1b95~mv2.png
   - name: Collin3DModels
-    url: https://www.collin3dmodels.com
+    url: https://collin3dmodels.com
 
 status-website:
-  # Add your custom domain name, or remove the `cname` line if you don't have a domain
-  # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   cname: status.starlightcommunity.network
-  theme: night
+  themeUrl: https://status.starlightcommunity.network/dark.css
   logoUrl: https://static.wixstatic.com/media/af0f76_efa09e38ca6b4e30ad3616f0a632b1b6~mv2.png
   favicon: https://static.wixstatic.com/media/af0f76_efa09e38ca6b4e30ad3616f0a632b1b6~mv2.png
   name: Starlight Community Network
@@ -37,7 +34,7 @@ status-website:
     - name: "theme-color"
       content: "#874fbf" 
     - name: "og:site_name"
-      content: "Starlight Community Network Powered By Upptime"
+      content: "SCN Status - Powered By Upptime"
     - name: "og:type"
       content: "website" 
     - name: "og:title"

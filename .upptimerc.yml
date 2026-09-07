@@ -1,7 +1,7 @@
 owner: SCN-KY 
 repo: SCN-Status 
 skipDeleteIssues: true
-user-agent: scn-bot
+user-agent: scn-uptime
 
 sites:
   - name: Main Site
